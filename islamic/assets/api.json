@@ -1,7 +1,5 @@
 {
-  "authority": "raw.githubusercontent.com",
-  "base": "codinggero/shared_preferences/main/islamic/",
-  "api": "assets/api.json",
+  "base": "https://raw.githubusercontent.com/codinggero/shared_preferences/main/islamic/",
   "adds": [
     "assets/adds/add-1.png",
     "assets/adds/add-2.png",
