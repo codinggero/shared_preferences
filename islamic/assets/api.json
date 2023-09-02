@@ -5,6 +5,28 @@
     "assets/adds/add-2.png",
     "assets/adds/add-3.png"
   ],
+  "share": [
+    {
+      "label": "Facebook",
+      "type": "facebook",
+      "icon": "assets/share/facebook.png"
+    },
+    {
+      "label": "Instagram",
+      "type": "instagram",
+      "icon": "assets/share/instagram.png"
+    },
+    {
+      "label": "Twitter",
+      "type": "twitter",
+      "icon": "assets/share/twitter.png"
+    },
+    {
+      "label": "WhatsApp",
+      "type": "whatsapp",
+      "icon": "assets/share/whatsapp.png"
+    }
+  ],
   "accounts": [
     {
       "label": "Facebook",
