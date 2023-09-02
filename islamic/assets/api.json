@@ -303,27 +303,27 @@
     {
       "label": "Quran",
       "type": "quran",
-      "icon": "assets/icons/stations/channels.png"
+      "icon": "assets/icons/channels/channels.png"
     },
     {
       "label": "Hadith",
       "type": "hadith",
-      "icon": "assets/icons/stations/channels.png"
+      "icon": "assets/icons/channels/channels.png"
     },
     {
       "label": "Naats",
       "type": "naats",
-      "icon": "assets/icons/stations/channels.png"
+      "icon": "assets/icons/channels/channels.png"
     },
     {
       "label": "Debates",
       "type": "debates",
-      "icon": "assets/icons/stations/channels.png"
+      "icon": "assets/icons/channels/channels.png"
     },
     {
       "label": "Others",
       "type": "others",
-      "icon": "assets/icons/stations/channels.png"
+      "icon": "assets/icons/channels/channels.png"
     }
   ],
   "stations": [
@@ -357,27 +357,27 @@
     {
       "label": "Quran",
       "type": "quran",
-      "icon": "assets/icons/stations/stations.png"
+      "icon": "assets/icons/websites/websites.png"
     },
     {
       "label": "Hadith",
       "type": "hadith",
-      "icon": "assets/icons/stations/stations.png"
+      "icon": "assets/icons/websites/websites.png"
     },
     {
       "label": "Naats",
       "type": "naats",
-      "icon": "assets/icons/stations/stations.png"
+      "icon": "assets/icons/websites/websites.png"
     },
     {
       "label": "Debates",
       "type": "debates",
-      "icon": "assets/icons/stations/stations.png"
+      "icon": "assets/icons/websites/websites.png"
     },
     {
       "label": "Others",
       "type": "others",
-      "icon": "assets/icons/stations/stations.png"
+      "icon": "assets/icons/websites/websites.png"
     }
   ]
 }
