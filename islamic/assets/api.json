@@ -251,52 +251,946 @@
     {
       "label": "Quran",
       "type": "quran",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Hadith",
       "type": "hadith",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Aqeedah",
       "type": "aqeedah",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Prayers",
       "type": "prayers",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Ramadan",
       "type": "ramadan",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Zakat",
       "type": "zakat",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Hajj",
       "type": "hajj",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Angels",
       "type": "angels",
-      "icon": "assets/icons/books/quran.png"
-    },
-    {
-      "label": "Jinn",
-      "type": "jinn",
-      "icon": "assets/icons/books/quran.png"
-    },
-    {
-      "label": "Belief",
-      "type": "belief",
-      "icon": "assets/icons/books/quran.png"
+      "icon": "assets/icons/books/quran.png",
+      "chips": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+      "docs": [
+        {
+          "chip": ["Arabic"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        },
+        {
+          "chip": ["Arabic", "Urdu", "English", "Farsi", "Others"],
+          "title": "Quran",
+          "author": "Dr. Abdulazeez AbdulRaheem",
+          "subtitle": "The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God. It is organized in 114 chapters, which consist of verses. Wikipedia",
+          "Languages": ["Arabic", "Urdu", "English"],
+          "leading": "assets/icons/books/quran/quran.png",
+          "download": [
+            {
+              "language": "Arabic",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "Urdu",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            },
+            {
+              "language": "English",
+              "link": "https://cdn69.urdupoint.com/islam/quran-pdf/arabic.pdf"
+            }
+          ]
+        }
+      ]
     }
   ],
   "channels": [
