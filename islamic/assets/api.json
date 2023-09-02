@@ -256,47 +256,47 @@
     {
       "label": "Hadith",
       "type": "hadith",
-      "icon": "assets/icons/books/hadith.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Aqeedah",
       "type": "aqeedah",
-      "icon": "assets/icons/books/aqeedah.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Prayers",
       "type": "prayers",
-      "icon": "assets/icons/books/prayers.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Ramadan",
       "type": "ramadan",
-      "icon": "assets/icons/books/ramadan.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Zakat",
       "type": "zakat",
-      "icon": "assets/icons/books/zakat.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Hajj",
       "type": "hajj",
-      "icon": "assets/icons/books/hajj.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Angels",
       "type": "angels",
-      "icon": "assets/icons/books/angels.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Jinn",
       "type": "jinn",
-      "icon": "assets/icons/books/jinn.png"
+      "icon": "assets/icons/books/quran.png"
     },
     {
       "label": "Belief",
       "type": "belief",
-      "icon": "assets/icons/books/belief.png"
+      "icon": "assets/icons/books/quran.png"
     }
   ],
   "channels": [
