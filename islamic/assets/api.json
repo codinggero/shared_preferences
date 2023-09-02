@@ -180,7 +180,7 @@
     },
     {
       "label": "Youtube",
-      "youtube": "youtube",
+      "type": "youtube",
       "icon": "assets/icons/accounts/youtube.png",
       "chips": ["Personal", "Naats", "Debates", "Recitation", "Others"],
       "docs": [
